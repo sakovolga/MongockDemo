@@ -24,16 +24,4 @@ public class User {
     public void setEmail(String email) {
         this.email = email;
     }
-
-    public ObjectId getId() {
-        return id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public String getEmail() {
-        return email;
-    }
 }
